@@ -1,4 +1,4 @@
 resource "aws_vpc" "dev" {
-    cidr_block = "${var.sidr_block}"
+    cidr_block = "${var.cidr_block}"
 }
 
