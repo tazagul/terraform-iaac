@@ -1,6 +1,10 @@
 environment                     =   "ohio"
 region = "eu-east-2"
 
+az1                  =       "us-east-2a"
+az2                  =       "us-east-2b"
+az3                  =       "us-east-2c" 
+
 s3_bucket = "terraform-class-taza"
 s3_folder_region = "us-east-1"
 
